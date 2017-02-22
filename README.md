@@ -1,6 +1,8 @@
 # sandman2-docker
 Docker image for running Sandman2 against MSSQL 2016
 
+Sandman2 source: https://github.com/jeffknupp/sandman2
+
 ## Using this image (interactive docker session)
 
 ```bash
